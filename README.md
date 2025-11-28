@@ -5,3 +5,5 @@ esta sección para poder tener un mayor margen de trabajo, o sea, que se accione
 Otra de las funciones, es la de poder tener un control digital de encendido y apagado de luces (6 LED o LAMPARAS DC), que se complementa con otra función 
 mas dentro del menú, que es el control del brillo por intermedio de un PWM.
 La ultima función del menú, es la visualización de todas las variables / estados en la pantalla...
+
+<img width="837" height="588" alt="LCD_I2c" src="https://github.com/user-attachments/assets/c3700381-099f-436d-abe1-582ebdc6c416" />
